@@ -26,7 +26,7 @@ public class DotCom{
 				System.out.println("Ora! voce afundou" + name +": (");
 
 			}else {
-				result = "Correto";
+				result = "Correto ?";
 			}
 		}
 		return result;
